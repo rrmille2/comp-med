@@ -40,7 +40,7 @@
         {
             "Effect": "Allow",
             "Action": "iam:PassRole",
-            "Resource": "arn:aws:iam::*:role/*",
+            "Resource": "arn:aws:iam::*:role/*"
         }
     ]
 }
